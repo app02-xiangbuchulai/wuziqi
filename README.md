@@ -1,3 +1,5 @@
+<img width="502" height="780" alt="8232a3f564b22addf2f73ad95d898aef" src="https://github.com/user-attachments/assets/19f7c2c6-ff16-4242-b314-c0bf21f9e2b7" />
+<img width="502" height="780" alt="8232a3f564b22addf2f73ad95d898aef" src="https://github.com/user-attachments/assets/a8f3ea6d-5b80-4bbe-a8e4-e35e667b1b96" />
 一、项目概述
  
 1.1 项目介绍
@@ -187,3 +189,5 @@ Gobang-五子棋/
  
 1. 页面打不开？
 解决：确保文件完整，直接双击 html 文件打开，不要用压缩包内预览。
+<img width="567" height="841" alt="c4417c365b0e627a7fc5170fe9173a55" src="https://github.com/user-attachments/assets/7755ce7d-fa63-4e93-98aa-85c21f82166e" />
+<img width="502" height="780" alt="8232a3f564b22addf2f73ad95d898aef" src="https://github.com/user-attachments/assets/f8f0d5d4-00e9-4949-bea1-78e65580e879" />
